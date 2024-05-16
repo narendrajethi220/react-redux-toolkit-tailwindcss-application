@@ -7,7 +7,7 @@ Adding users by clicking Add New User
 Deleting individual user by clicking Delete Icon
 ![Screenshot (735)](https://github.com/narendrajethi220/react-redux-toolkit-tailwindcss-application/assets/55850738/bf901f36-c149-4b35-888f-13f1f5f1e229)
 
-Clearing all the user by clicking Delete All user button
+Clearing all the user by clicking Delete All users button
 ![Screenshot (736)](https://github.com/narendrajethi220/react-redux-toolkit-tailwindcss-application/assets/55850738/670870dc-7973-449c-afe0-083b2e090546)
 
 
