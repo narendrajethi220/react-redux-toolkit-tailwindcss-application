@@ -1,11 +1,11 @@
 import { useDispatch } from "react-redux";
-import { deleteAllUser } from "../store/slices/UserSlice";
+import { clearAllUser } from "../store/actions";
 
 const DeleteAllUsers = () => {
   const dispatch = useDispatch();
 
   const clearUsers = () => {
-    dispatch(deleteAllUser());
+    dispatch(clearAllUser());
   };
   return (
     <div className="text-right mt-4 ">
